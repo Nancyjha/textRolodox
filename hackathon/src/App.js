@@ -50,5 +50,6 @@ export default App;
 /*git version control
 git init
 git add .
+git commit -m "initial commit"
 
 */ 
